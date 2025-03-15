@@ -1,0 +1,26 @@
+{
+  "name": "node-advance",
+  "version": "1.0.0",
+  "description": "learning advance Node",
+  "homepage": "https://github.com/Bishal-J/node-js-advance#readme",
+  "bugs": {
+    "url": "https://github.com/Bishal-J/node-js-advance/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Bishal-J/node-js-advance.git"
+  },
+  "license": "ISC",
+  "author": "Bishal",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon index.js"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.9"
+  },
+  "dependencies": {
+    "express": "^4.21.2"
+  }
+}
